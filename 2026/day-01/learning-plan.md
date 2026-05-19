@@ -4,7 +4,17 @@
 
 DevOps is a culture and set of practices that helps development and operations teams work together efficiently. It focuses on automation, continuous integration, continuous delivery, monitoring, and faster software delivery.
 
+<<<<<<< HEAD
 Cloud Engineering is about building, deploying, and managing applications and infrastructure on cloud platforms like AWS, Azure, and Google Cloud.
+=======
+✅ My understanding of DevOps & Cloud Engineering.
+
+✅ Why I want to transition into DevOps.
+
+✅ My long-term learning goals.
+
+✅ How I plan to stay consistent for the next 90 days.
+>>>>>>> a7a60127b908d305e16242d1fceaca93d86fe319
 
 ---
 

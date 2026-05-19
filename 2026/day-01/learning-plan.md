@@ -2,7 +2,7 @@
 
 ## What is my understanding of DevOps and Cloud Engineering?
 
-DevOps is a culture and set of practices that helps development and operations teams work together efficiently. It focuses on automation, continuous integration, continuous delivery, monitoring, and faster software delivery.
+DevOps is a culture that brings teams together to build, test, and deploy high-quality software faster. It breaks down silos, enabling developers, operations managers, QAs, and testers to communicate effectively. Through continuous integration and continuous delivery powered by pipelines and automation, DevOps delivers reliable, secure, and high-performing software.
 
 Cloud Engineering is about building, deploying, and managing applications and infrastructure on cloud platforms like AWS, Azure, and Google Cloud.
 
@@ -22,7 +22,7 @@ Cloud Engineering is about building, deploying, and managing applications and in
 
 I am currently working as a Technical Support Engineer, and while working in support and troubleshooting, I developed a strong interest in DevOps, automation, and cloud technologies.
 
-I want to improve my technical skills, understand modern infrastructure, and transition my career into the DevOps domain.
+I have always been fascinated by technology, I explored different paths—and DevOps immediately caught my interest. I love how it involves us in every stage, from staging to deployment. We design and build the entire pipeline from start to finish, and then—boom—the software is deployed. And of course, it pays...
 
 ---
 

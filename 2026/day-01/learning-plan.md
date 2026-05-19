@@ -4,9 +4,9 @@
 
 DevOps is a culture and set of practices that helps development and operations teams work together efficiently. It focuses on automation, continuous integration, continuous delivery, monitoring, and faster software delivery.
 
-
 Cloud Engineering is about building, deploying, and managing applications and infrastructure on cloud platforms like AWS, Azure, and Google Cloud.
-=======
+
+---
 
 ✅ My understanding of DevOps & Cloud Engineering.
 

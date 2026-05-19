@@ -1,27 +1,50 @@
-Started my #90DaysOfDevOps journey today 🚀
+# Day 1 - Starting My #90DaysOfDevOps Journey 🚀
 
-Day 1 was all about setting the foundation and creating my personal DevOps learning roadmap.
+## What is my understanding of DevOps and Cloud Engineering?
 
-Here’s what I reflected on today:
+DevOps is a culture and set of practices that helps development and operations teams work together efficiently. It focuses on automation, continuous integration, continuous delivery, monitoring, and faster software delivery.
 
-✅ My understanding of DevOps & Cloud Engineering.
-✅ Why I want to transition into DevOps.
-✅ My long-term learning goals.
-✅ How I plan to stay consistent for the next 90 days.
+Cloud Engineering is about building, deploying, and managing applications and infrastructure on cloud platforms like AWS, Azure, and Google Cloud.
 
-Currently working as a Technical Support Engineer and now starting my journey toward DevOps, Cloud, Automation, CI/CD, Docker, Kubernetes, and modern infrastructure technologies.
+---
 
-I’ll be documenting my learning publicly to stay accountable, improve consistently, and grow with the community.
+## Why am I starting to learn DevOps & Cloud?
 
-📌 GitHub Repository:
-https://github.com/RahulP03/90DaysOfDevOps
+I am currently working as a Technical Support Engineer, and while working in support and troubleshooting, I developed a strong interest in DevOps, automation, and cloud technologies.
 
-One step at a time. Consistency over perfection 💪
+I want to improve my technical skills, understand modern infrastructure, and transition my career into the DevOps domain.
+
+---
+
+## Where do I want to reach?
+
+My goal is to become a skilled DevOps Engineer with strong knowledge of:
+
+- Linux
+- Git & GitHub
+- Networking
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud platforms like AWS
+- Automation & Monitoring tools
+
+I also want to build real-world projects and become industry-ready.
+
+---
+
+## How will I stay consistent every single day?
+
+- Study and practice daily
+- Complete tasks step by step
+- Push my progress regularly on GitHub
+- Share learning publicly on LinkedIn
+- Focus on consistency over perfection
+
+---
+
+Starting this journey with determination and consistency 💪
 
 #90DaysOfDevOps #DevOps #Cloud #Linux #Student #LearnInPublic #CareerChange #DevopsKaJosh #TrainWithShubham
-<<<<<<< HEAD
 
 ![alt text](Image.png)
-=======
-![alt text](Image.png)
->>>>>>> d8ff4f5a92511715ec92fba615417e261dd60665

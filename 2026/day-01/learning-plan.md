@@ -19,5 +19,9 @@ https://github.com/RahulP03/90DaysOfDevOps
 One step at a time. Consistency over perfection 💪
 
 #90DaysOfDevOps #DevOps #Cloud #Linux #Student #LearnInPublic #CareerChange #DevopsKaJosh #TrainWithShubham
+<<<<<<< HEAD
 
 ![alt text](Image.png)
+=======
+![alt text](Image.png)
+>>>>>>> d8ff4f5a92511715ec92fba615417e261dd60665

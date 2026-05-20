@@ -96,8 +96,7 @@ As a DevOps engineer, understanding systemd is important because most Linux serv
 
 ---
 
-##
-5 Commands used daily
+## 5 Commands used daily
 
 * ps or top : Provides process ID, memory usage, CPU time and command name which is crucial for monitoring system performance and troubleshooting.
 * chmod : Changing permission of files.

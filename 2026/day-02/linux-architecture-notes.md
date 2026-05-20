@@ -1,7 +1,7 @@
 # Day 2 - Linux Architecture, Processes, and systemd 🐧
 
 ## Understanding Linux Architecture
-
+![alt text](image.png)
 Linux is an operating system that acts as a bridge between hardware and users. It is mainly divided into three important parts:
 
 ### 1. Kernel
